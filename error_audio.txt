@@ -1,0 +1,1 @@
+<class 'sounddevice.PortAudioError'>,Error opening InputStream: Unanticipated host error [PaErrorCode -9999]: 'Connection timed out' [ALSA error -110],cam_model.py,127

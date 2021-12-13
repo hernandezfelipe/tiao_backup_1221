@@ -1,0 +1,1 @@
+/home/pi/tiao/run.sh: line 2: streamlit: command not found
