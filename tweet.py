@@ -7,10 +7,10 @@ deg = u"\N{DEGREE SIGN}"
 def post_picture(image_path, msg=None):
 
     # personal details
-    consumer_key ="OX7LYeIO08Ac6GIcXKWNw2l9B"
-    consumer_secret ="sD4bLfwJqZ7MDvx19J2h9UjZJHNQFXvku2oUZMeFk6Vo0k0DnG"
-    access_token ="878744744767172608-d04q5pSyaLHnWlICqueyg2W9nZJg1k8"
-    access_token_secret ="IJMV9hZTFIlrEJ5q7ov2jVJ2thReFY849jx3DC8tUXjFj"
+    consumer_key =""
+    consumer_secret =""
+    access_token ="-"
+    access_token_secret =""
 
     # authentication of consumer key and secret
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
